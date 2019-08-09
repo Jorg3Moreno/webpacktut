@@ -4,7 +4,7 @@
   "description": "Webpack tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/Jorg3Moreno/webpacktut#readme",
   "dependencies": {},
   "devDependencies": {
-    "webpack": "^4.39.1"
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
   }
 }
