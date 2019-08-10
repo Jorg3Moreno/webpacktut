@@ -16,3 +16,8 @@ First, intall css integration
 `npm i --save-dev style-loader`
 
 Second, add this module to webpack config and add a css rule.
+
+#PLUGINS
+
+intall plugin to export css
+`npm i mini-css-extract-plugin html-webpack-plugin --save-dev`
